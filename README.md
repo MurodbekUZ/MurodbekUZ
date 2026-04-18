@@ -80,16 +80,16 @@ class Murodbek:
 ## GitHub Statistika
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Murodbek1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF6B9D&text_color=ffffff" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Murodbek&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF6B9D&text_color=ffffff" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Murodbek1&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF6B9D&currStreakLabel=00F5FF" />
 </div>
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murodbek1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=ffffff" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murodbek&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=ffffff" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Murodbek1&bg_color=0D1117&color=00F5FF&line=FF6B9D&point=FFFFFF&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Murodbek&bg_color=0D1117&color=00F5FF&line=FF6B9D&point=FFFFFF&area=true&hide_border=true" />
 </div>
 
 ---
@@ -97,7 +97,7 @@ class Murodbek:
 ## Trofeylar
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Murodbek1&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Murodbek&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=6" />
 </div>
 
 ---
