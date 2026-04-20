@@ -95,7 +95,7 @@ class MurodbekAzatov:
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=MurodbekUZ&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MurodbekUZ&theme=onestar&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -116,7 +116,7 @@ class MurodbekAzatov:
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/MurodbekUZ/MurodbekUZ/output/github-contribution-grid-snake-dark.svg)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MurodbekUZ&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)
 
 </div>
 
