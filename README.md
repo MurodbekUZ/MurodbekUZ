@@ -18,7 +18,7 @@ class MurodbekAzatov:
         self.name        = "Murodbek Azatov"
         self.role        = "Full Stack Developer"
         self.education   = "Muhammad al-Xorazmiy nomidagi IT Park"
-        self.location    = "Xorazm, O'zbekiston 🇺🇿"
+        self.location    = "Xorazm, O'zbekiston"
         self.email       = "murodbekazatov126@gmail.com"
         self.website     = "https://azatov.vercel.app"
         self.telegram    = "@MurodbekAzatov"
