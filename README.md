@@ -20,7 +20,7 @@ class MurodbekAzatov:
         self.education   = "Muhammad al-Xorazmiy nomidagi IT Park"
         self.location    = "Xorazm, O'zbekiston"
         self.email       = "murodbekazatov126@gmail.com"
-        self.website     = "https://azatov.vercel.app"
+        self.website     = "https://murodbekazatov.vercel.app"
         self.telegram    = "@MurodbekAzatov"
         self.skills      = ["Python", "JavaScript", "React", "Django",
                             "Flask", "HTML/CSS", "SQL", "Git"]
