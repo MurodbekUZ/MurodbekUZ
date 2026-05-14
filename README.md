@@ -68,7 +68,7 @@ class MurodbekAzatov:
 
 | | |
 |---|---|
-| 🌐 **Sayt** | [moysiz.up.railway.app](https://moysiz.up.railway.app/) |
+| 🌐 **Sayt** | [moysiz.uz](https://moysiz.uz) |
 | 🤖 **Bot** | [@Moysizbot](https://t.me/Moysizbot) |
 | 📢 **Kanal** | [@Moysiz](https://t.me/Moysiz) |
 ---
